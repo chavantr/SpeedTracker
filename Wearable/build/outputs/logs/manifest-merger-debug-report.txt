@@ -1,0 +1,228 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:17:1-60:12
+INJECTED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:17:1-60:12
+INJECTED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:17:1-60:12
+MERGED from [com.android.support:wear:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\wear-27.1.0.aar\ba19a2600aa20fa168c4d8d7be66354f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\e93cfdd525c37ba0b4b2765f482796dc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.8.0.aar\1744609a9e1237538606cfeb457b63de\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v13:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.0.aar\8a6e454485081ed5913e648bf25b5195\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\wearable-2.3.0.aar\f633ac0ee502d69e15408d7c9e0a0ffa\AndroidManifest.xml:2:1-15:12
+MERGED from [:Shared] D:\SpeedTracker\Shared\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\5379a4563b67a83644d25183694e1b6e\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\f69403e2788a3c5a90b4aa9e81a9dc32\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\ba35c3df0e15f04f86eb2caed072e6f2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\f9017792f210cb04f0d0b2d64fad4498\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\6f0157e6184fe4eb65431f1328642c5c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\ba8f5bb560cc626fd298d892a0ef862d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\59b0fe0907590a8be8eeed7e71ea1d3c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\17df4a4c163bc0b93950d81b59952620\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\9282dfb4eedb26422c398e584bcededb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:percent:26.0.2] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\percent-26.0.2.aar\dc685701bea868958d32222fc0f95b9a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\bb5c2d18f128037f009060fd86cc79ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a02126a23a580fd4366f6ae80473b4bd\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\7b04efd6a1f556e98e5ad15a01f41882\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\a1bfc82c1b410bd98192abc48214efb9\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b80c9ed955154faab913e1dbbdb70ab3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8300a15295557be0873bec5230ac8e6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\43e93040d22bbab0aa8ddde248be9b09\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\bc4ca723068b32f948df92c0f71108ab\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\35983bf858fe1d590e0177976c716b5f\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\90b64728514e5d1778cfef688926813e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\843d2f3e8ec566b0a6b1c533ca8c7fef\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:17:1-60:12
+INJECTED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:17:1-60:12
+	package
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:18:11-62
+	android:versionName
+		INJECTED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:17:1-60:12
+		INJECTED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:17:1-60:12
+		INJECTED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:17:11-69
+uses-feature#android.hardware.type.watch
+ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:20:5-63
+	android:name
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:20:19-61
+uses-feature#android.hardware.location.gps
+ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:21:5-91
+	android:required
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:21:64-88
+	android:name
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:21:19-63
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:22:5-78
+	android:name
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:23:22-65
+uses-sdk
+ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:25:5-27:41
+INJECTED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:25:5-27:41
+INJECTED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:wear:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\wear-27.1.0.aar\ba19a2600aa20fa168c4d8d7be66354f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:wear:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\wear-27.1.0.aar\ba19a2600aa20fa168c4d8d7be66354f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\e93cfdd525c37ba0b4b2765f482796dc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\e93cfdd525c37ba0b4b2765f482796dc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.8.0.aar\1744609a9e1237538606cfeb457b63de\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.8.0.aar\1744609a9e1237538606cfeb457b63de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.0.aar\8a6e454485081ed5913e648bf25b5195\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.0.aar\8a6e454485081ed5913e648bf25b5195\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\wearable-2.3.0.aar\f633ac0ee502d69e15408d7c9e0a0ffa\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\wearable-2.3.0.aar\f633ac0ee502d69e15408d7c9e0a0ffa\AndroidManifest.xml:5:5-7:41
+MERGED from [:Shared] D:\SpeedTracker\Shared\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:Shared] D:\SpeedTracker\Shared\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\5379a4563b67a83644d25183694e1b6e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\5379a4563b67a83644d25183694e1b6e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\f69403e2788a3c5a90b4aa9e81a9dc32\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\f69403e2788a3c5a90b4aa9e81a9dc32\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\ba35c3df0e15f04f86eb2caed072e6f2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\ba35c3df0e15f04f86eb2caed072e6f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\f9017792f210cb04f0d0b2d64fad4498\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\f9017792f210cb04f0d0b2d64fad4498\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\6f0157e6184fe4eb65431f1328642c5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\6f0157e6184fe4eb65431f1328642c5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\ba8f5bb560cc626fd298d892a0ef862d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\ba8f5bb560cc626fd298d892a0ef862d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\59b0fe0907590a8be8eeed7e71ea1d3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\59b0fe0907590a8be8eeed7e71ea1d3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\17df4a4c163bc0b93950d81b59952620\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\17df4a4c163bc0b93950d81b59952620\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\9282dfb4eedb26422c398e584bcededb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\9282dfb4eedb26422c398e584bcededb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:26.0.2] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\percent-26.0.2.aar\dc685701bea868958d32222fc0f95b9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:26.0.2] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\percent-26.0.2.aar\dc685701bea868958d32222fc0f95b9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\bb5c2d18f128037f009060fd86cc79ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\bb5c2d18f128037f009060fd86cc79ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a02126a23a580fd4366f6ae80473b4bd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a02126a23a580fd4366f6ae80473b4bd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\7b04efd6a1f556e98e5ad15a01f41882\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\7b04efd6a1f556e98e5ad15a01f41882\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\a1bfc82c1b410bd98192abc48214efb9\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\a1bfc82c1b410bd98192abc48214efb9\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b80c9ed955154faab913e1dbbdb70ab3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b80c9ed955154faab913e1dbbdb70ab3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8300a15295557be0873bec5230ac8e6b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8300a15295557be0873bec5230ac8e6b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\43e93040d22bbab0aa8ddde248be9b09\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\43e93040d22bbab0aa8ddde248be9b09\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\bc4ca723068b32f948df92c0f71108ab\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\bc4ca723068b32f948df92c0f71108ab\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\35983bf858fe1d590e0177976c716b5f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\35983bf858fe1d590e0177976c716b5f\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\90b64728514e5d1778cfef688926813e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\90b64728514e5d1778cfef688926813e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\843d2f3e8ec566b0a6b1c533ca8c7fef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\843d2f3e8ec566b0a6b1c533ca8c7fef\AndroidManifest.xml:20:5-44
+INJECTED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:25:5-27:41
+INJECTED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:25:5-27:41
+	android:targetSdkVersion
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:27:9-38
+		INJECTED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml
+		INJECTED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:26:9-35
+		INJECTED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml
+		INJECTED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml
+application
+ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:29:5-58:19
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\e93cfdd525c37ba0b4b2765f482796dc\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\e93cfdd525c37ba0b4b2765f482796dc\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.8.0.aar\1744609a9e1237538606cfeb457b63de\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.8.0.aar\1744609a9e1237538606cfeb457b63de\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\wearable-2.3.0.aar\f633ac0ee502d69e15408d7c9e0a0ffa\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\wearable-2.3.0.aar\f633ac0ee502d69e15408d7c9e0a0ffa\AndroidManifest.xml:9:5-13:19
+MERGED from [:Shared] D:\SpeedTracker\Shared\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-47
+MERGED from [:Shared] D:\SpeedTracker\Shared\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-47
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\5379a4563b67a83644d25183694e1b6e\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\5379a4563b67a83644d25183694e1b6e\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\f69403e2788a3c5a90b4aa9e81a9dc32\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\f69403e2788a3c5a90b4aa9e81a9dc32\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\ba35c3df0e15f04f86eb2caed072e6f2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\ba35c3df0e15f04f86eb2caed072e6f2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:percent:26.0.2] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\percent-26.0.2.aar\dc685701bea868958d32222fc0f95b9a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:percent:26.0.2] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\percent-26.0.2.aar\dc685701bea868958d32222fc0f95b9a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a02126a23a580fd4366f6ae80473b4bd\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a02126a23a580fd4366f6ae80473b4bd\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\7b04efd6a1f556e98e5ad15a01f41882\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\7b04efd6a1f556e98e5ad15a01f41882\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\a1bfc82c1b410bd98192abc48214efb9\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.8.0.aar\a1bfc82c1b410bd98192abc48214efb9\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\43e93040d22bbab0aa8ddde248be9b09\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\43e93040d22bbab0aa8ddde248be9b09\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\bc4ca723068b32f948df92c0f71108ab\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\bc4ca723068b32f948df92c0f71108ab\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\35983bf858fe1d590e0177976c716b5f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\35983bf858fe1d590e0177976c716b5f\AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:32:9-41
+	android:icon
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:31:9-45
+	android:allowBackup
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:30:9-35
+	android:theme
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:33:9-59
+meta-data#com.google.android.wearable.standalone
+ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:35:9-37:37
+	android:value
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:37:13-34
+	android:name
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:36:13-66
+uses-library#com.google.android.wearable
+ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:40:9-93
+MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\wearable-2.3.0.aar\f633ac0ee502d69e15408d7c9e0a0ffa\AndroidManifest.xml:10:9-12:40
+MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\wearable-2.3.0.aar\f633ac0ee502d69e15408d7c9e0a0ffa\AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:40:66-90
+	android:name
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:40:23-65
+meta-data#com.google.android.gms.version
+ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:42:9-43:75
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\ba35c3df0e15f04f86eb2caed072e6f2\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\ba35c3df0e15f04f86eb2caed072e6f2\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:43:20-73
+	android:name
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:42:20-65
+activity#com.example.android.wearable.speedtracker.WearableMainActivity
+ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:44:9-51:20
+	android:label
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:46:13-45
+	android:name
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:45:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:47:13-50:29
+action#android.intent.action.MAIN
+ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:48:17-68
+	android:name
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:49:17-76
+	android:name
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:49:27-74
+activity#com.example.android.wearable.speedtracker.SpeedPickerActivity
+ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:52:9-57:20
+	android:name
+		ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:53:13-89
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from D:\SpeedTracker\Wearable\src\main\AndroidManifest.xml:54:13-56:29
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\5379a4563b67a83644d25183694e1b6e\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\5379a4563b67a83644d25183694e1b6e\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\5379a4563b67a83644d25183694e1b6e\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\5379a4563b67a83644d25183694e1b6e\AndroidManifest.xml:24:13-79
+meta-data#android.support.VERSION
+ADDED from [com.android.support:percent:26.0.2] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\percent-26.0.2.aar\dc685701bea868958d32222fc0f95b9a\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:percent:26.0.2] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\percent-26.0.2.aar\dc685701bea868958d32222fc0f95b9a\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:percent:26.0.2] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\percent-26.0.2.aar\dc685701bea868958d32222fc0f95b9a\AndroidManifest.xml:24:13-51
